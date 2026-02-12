@@ -15,7 +15,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <woodstox.version>6.7.0</woodstox.version>
+    <woodstox.version>7.1.1</woodstox.version>
     <junit.jupiter.version>6.0.2</junit.jupiter.version>
     <assertj.version>3.27.7</assertj.version>
     <maven.surefire-plugin.version>3.5.4</maven.surefire-plugin.version>
